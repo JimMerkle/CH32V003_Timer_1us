@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>Timer_1us</name>
-	<comment/>
+	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
@@ -23,37 +23,10 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>Core</name>
-			<type>2</type>
-			<locationURI>copy_PARENT/SRC/Core</locationURI>
-		</link>
-		<link>
-			<name>Debug</name>
-			<type>2</type>
-			<locationURI>copy_PARENT/SRC/Debug</locationURI>
-		</link>
-		<link>
-			<name>Ld</name>
-			<type>2</type>
-			<locationURI>copy_PARENT/SRC/Ld</locationURI>
-		</link>
-		<link>
-			<name>Peripheral</name>
-			<type>2</type>
-			<locationURI>copy_PARENT/SRC/Peripheral</locationURI>
-		</link>
-		<link>
-			<name>Startup</name>
-			<type>2</type>
-			<locationURI>copy_PARENT/SRC/Startup</locationURI>
-		</link>
-	</linkedResources>
 	<filteredResources>
 		<filter>
 			<id>1595986042669</id>
-			<name/>
+			<name></name>
 			<type>22</type>
 			<matcher>
 				<id>org.eclipse.ui.ide.multiFilter</id>
